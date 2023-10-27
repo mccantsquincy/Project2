@@ -1,0 +1,9 @@
+/* Implement css styling in this file */
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: 'Poppins';
+}
