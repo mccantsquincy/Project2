@@ -13,4 +13,4 @@ In this project you will need your own API key. You can find the link to create 
   
   ``const APIKey = "your api key";``
 
-You will be using this API key to make request to the openweather API to fetch the weather data in you index.js file.
+You will be using this API key to make request to the openweather API to fetch the weather data in your index.js file.
